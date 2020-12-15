@@ -1,0 +1,47 @@
+img.vis {
+    max-width: 400px;
+    float: left;
+}
+img.vis-sm {
+    max-width: 150px;
+    float: left;
+}
+.navbar-nav {
+    float: right;
+}
+.vis-page .section-main .vis {
+    max-width: 100%;
+}
+.pg-comparison .comparison-vis {
+    max-width: 90%;
+}
+
+.comp-image-grid {
+    text-align: center;
+}
+p {
+    line-height: 1.75em;
+    font-size: 1.2em;
+}
+nav a {
+    color: rgba(0,0,0,.9);
+}
+@media (max-width: 980px){
+    nav.bg-light {
+        background-color: rgb(192, 191, 191) !important;
+    }
+    nav a {
+        
+    }
+
+    .navbar-toggler {
+        
+        
+    }
+}
+h1, h2, h3, h4, h5, h6 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin: .75em 0em;
+}
+
